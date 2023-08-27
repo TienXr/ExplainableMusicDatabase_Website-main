@@ -33,6 +33,6 @@ app.use('/api/items', items)
 app.use('/api/themes', themes)
 app.use('/api/user', user)
 
-const port = process.env.PORT || 5000;
+const port = process.env.PORT;
 
 app.listen(port, () => console.log(`Server started on port ${port}`));
