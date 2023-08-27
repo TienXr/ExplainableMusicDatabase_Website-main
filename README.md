@@ -1,4 +1,4 @@
-# ExplainableMusicDatabase_Website
+# Explainable Music
 
 ## Getting Started 
 Follow these instructions to run the app locally
