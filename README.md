@@ -5,6 +5,11 @@ Follow these instructions to run the app locally
 
 **NOTE: All scripts should be executed from the project’s root directory.**
 
+### .env contents
+PORT= your port number
+MONGO_URI= your MongoDB connection
+SECRET= secrect code for creating token for cookie
+
 ### Install Dependencies
 
 Install server dependencies
